@@ -8,6 +8,9 @@ This respositry contains the Python code and data for the capstone compeition pr
 Predict whether a set of restaurants will pass the public health inspection tests given the corresponding Yelp text reviews along with some additional information such as the locations and cuisines offered in these restaurants.
 
 ##Project Files
+####data_mining_specialization_project_project6.pdf
+This file contains a brief description and comparison of all the methods used in the model. It includes a summary of the text processing techniques, feature representation and selection, and learning algorithms that were explored in my model.
+
 ####Hygiene.tar.gz
 The training dataset composed of 546 restaurants, in addition to a testing subset of 12753 restaurants used for evaluating the performance of the classifier. There are three files comtained in this file.
 ######hygiene.dat
